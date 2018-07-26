@@ -1,0 +1,3 @@
+/Users/tpalczew/Exercism/cpp/hello-world/build/CMakeFiles/hello-world.dir
+/Users/tpalczew/Exercism/cpp/hello-world/build/CMakeFiles/ALL_BUILD.dir
+/Users/tpalczew/Exercism/cpp/hello-world/build/CMakeFiles/ZERO_CHECK.dir
